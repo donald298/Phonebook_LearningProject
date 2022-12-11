@@ -1,0 +1,25 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "script",
+			"scriptType": "batch",
+			"path": "",
+			"fileName": "gradlew.bat",
+			"scriptFile": true,
+			"script": "bat",
+			"target": "bat",
+			"uri": {
+				"$mid": 1,
+				"path": "/workspaces/Phonebook_LearningProject/gradlew.bat",
+				"scheme": "vscode-remote",
+				"authority": "codespaces+donald298-effective-adventure-w9vr6446vpx25xvj"
+			},
+			"takesArgs": false,
+			"problemMatcher": [
+				"$msCompile"
+			],
+			"label": "batch: gradlew.bat"
+		}
+	]
+}
